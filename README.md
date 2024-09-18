@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shavindu himath
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate with other content creators
 - 📫 How to reach me, shavinduhimath200@gmail.com
 
